@@ -1,0 +1,11 @@
+C:\DEV\LicenseGenerator\LicenseGenerator\bin\Debug\LicenseGenerator.exe.config
+C:\DEV\LicenseGenerator\LicenseGenerator\bin\Debug\LicenseGenerator.exe
+C:\DEV\LicenseGenerator\LicenseGenerator\bin\Debug\LicenseGenerator.pdb
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.csproj.AssemblyReference.cache
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.csproj.SuggestedBindingRedirects.cache
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.Form1.resources
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.Properties.Resources.resources
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.csproj.GenerateResource.cache
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.csproj.CoreCompileInputs.cache
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.exe
+C:\DEV\LicenseGenerator\LicenseGenerator\obj\Debug\LicenseGenerator.pdb
